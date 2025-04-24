@@ -17,3 +17,5 @@ python train_resnet34.py
 ```
 python train.py
 ```
+## Hackmd
+https://hackmd.io/@wilsonoao/Byvte6Dkxl
